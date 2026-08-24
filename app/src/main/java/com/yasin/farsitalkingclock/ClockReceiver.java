@@ -3,6 +3,7 @@ package com.yasin.farsitalkingclock;
 import android.content.*;
 import android.speech.tts.TextToSpeech;
 import android.media.*;
+import android.net.Uri;
 import android.os.*;
 import java.util.*;
 

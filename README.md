@@ -12,3 +12,7 @@ Major changes:
 - Added working themes, accent colors, text colors and interface font scaling.
 - Added multiple clock styles including large digital, 7-segment-like monospace, minimal digital, analog and card digital.
 - Main screen now rebuilds when appearance/clock settings change.
+
+
+## v1.8.1
+Fixed ClockReceiver.java missing symbol for android.net.Uri.
